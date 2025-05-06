@@ -50,6 +50,10 @@ body {
 	justify-content: space-around;
 }
 
+#quote {
+	text-align: center;
+}
+
 .btn{
 	background-color: #59C173;
 	width: 20rem;
